@@ -15,3 +15,9 @@ A basic Django 3.0 starter project.
  4. Navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000) to test
 
 ---
+
+run the local docker image with the command
+
+```
+$ docker-compose -f docker-compose-local.yml up --build
+```
